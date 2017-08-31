@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\iRacingSdkWrapper",
+    "\\iRacingSdkWrapper\\iRacingSdkWrapper",
+    "\\iRacingSdkWrapper\\iRacingSimulator",
+    "\\iRacingSdkWrapper\\iRacingSimulator\\Events",
+    "\\iRacingSdkWrapper\\Samples",
+    "\\iRacingSdkWrapper\\Samples\\iRacingSdkWrapper.Examples.Cameras",
+    "\\iRacingSdkWrapper\\Samples\\iRacingSdkWrapper.Examples.Drivers",
+    "\\iRacingSdkWrapper\\Samples\\iRacingSimulator.Examples.IncidentLog"
+  ],
+  "SelectedNode": "\\iRacingSdkWrapper\\Samples\\iRacingSimulator.Examples.IncidentLog\\MainWindow.xaml.cs",
+  "PreviewInSolutionExplorer": false
+}
