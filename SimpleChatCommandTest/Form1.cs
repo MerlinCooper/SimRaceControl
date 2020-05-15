@@ -31,5 +31,10 @@ namespace SimpleChatCommandTest
         {
             MessageBox.Show("Thanks!");
         }
+
+        private void helloWorldLabel_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
